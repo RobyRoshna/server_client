@@ -1,0 +1,8 @@
+Written on a Windows machine running a Linux VM
+
+1. To run server (use '&' at the end to run in the background)->
+	python3 server.py
+
+2. To run client (new terminal if using localhost and not running server on the background) ->
+	python3 client.py localhost <filename>
+Replace <filename> with the name of the file to transfer
